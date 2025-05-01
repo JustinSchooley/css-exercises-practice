@@ -1,0 +1,15 @@
+/* external.css */
+.title{
+    display: flex;
+    justify-content: center;
+    font-size: 2rem;
+    color: white;
+    background-color: black;
+}
+
+p{
+    color:blue;
+}
+button{
+    color: red;
+}
