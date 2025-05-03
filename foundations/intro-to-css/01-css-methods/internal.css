@@ -1,0 +1,8 @@
+/*internal css*/
+div{
+    display: flex;
+    font-size: 2rem;
+    justify-content: center;
+    color: white;
+    background-color: red;
+}

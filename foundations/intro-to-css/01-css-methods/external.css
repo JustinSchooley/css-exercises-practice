@@ -1,15 +1,16 @@
 /* external.css */
-.title{
+.head-title{
     display: flex;
     justify-content: center;
     font-size: 2rem;
     color: white;
-    background-color: black;
+    background-color:red;
 }
 
-p{
-    color:blue;
+.sub-title{
+    color:white;
+    background-color: green;
 }
 button{
-    color: red;
+    background-color: orange;
 }
