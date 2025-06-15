@@ -1,0 +1,16 @@
+.large-button-font{
+    font-size: 28px;
+    font-family: Helvetica,'Times New Roman', sans-serif;
+}
+.bg-white{
+    background-color: white;
+}
+.bg-yellow{
+    background-color: yellow;
+}
+.bg-black{
+    background-color: black;
+}
+.text-white{
+    color: white;
+}
